@@ -25,7 +25,7 @@ pip install scapy
 프로젝트를 클론하고, `nmap-services` 파일을 프로젝트 폴더에 다운로드하여 배치합니다. `nmap-services` 파일은 Nmap의 공식 GitHub 저장소나 인터넷에서 다운로드할 수 있습니다.
 
 ```bash
-git clone https://github.com/devastator-x/NetAtk.git
+git clone https://github.com/sqzer-x/NetAtk.git
 cd ./NetAtk/FPS
 ```
 
