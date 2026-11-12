@@ -20,7 +20,7 @@
 
 1. 리포지토리를 로컬 환경에 클론합니다.
    ```bash
-   git clone https://github.com/sqzer-x/NetAtk.git
+   git clone https://github.com/debuman/NetAtk.git
    ```
    
 2. 프로젝트 디렉토리로 이동합니다.
